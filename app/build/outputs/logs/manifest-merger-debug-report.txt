@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\fresco-1.5.0.aar\04ad13304fa9abc291d7d124331ffc19\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\16345ffceb31b4eba8ba43331200566e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ac4787b6afdf34c8178a9f3a31c9e185\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ec4bad9af8dcfbb86d857c18f16b8d59\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\e6b0aa3f12a9e27084885e387da9dd23\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:drawee:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\drawee-1.5.0.aar\2ca67cf2360d2ad4205ab2d4822ae32d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.5.0.aar\54ff0e117988bd44f574ec12199ef6e7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.5.0.aar\2547ee3b3eca536aa9e2c6aa8b4c1c9b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\fbcore-1.5.0.aar\7df1f7c3b9f6786e03d12e7d00b05c3c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\1b07d215a096d515704e99d8af3baac2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c560b188e2bc72e216b2c889112782c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2d63989ae9cdb818de0bf9c7b8e334ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cc49385c5c001690c011199a76ecc38c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b3e4f562a3a0f891918dc960735cbc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ca18680e01f598c4ad483b9372fdd225\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ea1ff2ec50ab037a7118316375889512\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b83a9bd9daba0ea31a7e2ebb414839cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\327658e7614007ded9c3e10e0c59ea7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e62c0c5c429bfbe131993bda49a355e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ac4cd005ddd9125dadeaea53cac34665\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8f3530a8c9e63d593543304dc4621288\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e13546f34cc370547afd9374be5c7d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4ee3375f027687fc62b17fdae9f827d4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ec4bad9af8dcfbb86d857c18f16b8d59\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ec4bad9af8dcfbb86d857c18f16b8d59\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:12:9-61
+	android:icon
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:10:9-56
+	android:allowBackup
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.wsusingretrofitdemo.activities.VersionListActivity
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:15:19-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.wsusingretrofitdemo.activities.ListActivity
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:22:9-26:67
+	android:screenOrientation
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:25:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:26:13-64
+	android:configChanges
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:24:13-74
+	android:name
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:23:13-52
+activity#com.wsusingretrofitdemo.activities.RegistrationActivity
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:27:19-66
+activity#com.wsusingretrofitdemo.activities.MainActivity
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:28:9-61
+	android:name
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:28:19-58
+activity#com.wsusingretrofitdemo.activities.DataListActivity
+ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:29:9-74
+	android:name
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml:29:19-62
+uses-sdk
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\fresco-1.5.0.aar\04ad13304fa9abc291d7d124331ffc19\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\fresco-1.5.0.aar\04ad13304fa9abc291d7d124331ffc19\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\16345ffceb31b4eba8ba43331200566e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\16345ffceb31b4eba8ba43331200566e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ac4787b6afdf34c8178a9f3a31c9e185\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ac4787b6afdf34c8178a9f3a31c9e185\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ec4bad9af8dcfbb86d857c18f16b8d59\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ec4bad9af8dcfbb86d857c18f16b8d59\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\e6b0aa3f12a9e27084885e387da9dd23\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\e6b0aa3f12a9e27084885e387da9dd23\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:drawee:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\drawee-1.5.0.aar\2ca67cf2360d2ad4205ab2d4822ae32d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\drawee-1.5.0.aar\2ca67cf2360d2ad4205ab2d4822ae32d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.5.0.aar\54ff0e117988bd44f574ec12199ef6e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.5.0.aar\54ff0e117988bd44f574ec12199ef6e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.5.0.aar\2547ee3b3eca536aa9e2c6aa8b4c1c9b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.5.0.aar\2547ee3b3eca536aa9e2c6aa8b4c1c9b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\fbcore-1.5.0.aar\7df1f7c3b9f6786e03d12e7d00b05c3c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\fbcore-1.5.0.aar\7df1f7c3b9f6786e03d12e7d00b05c3c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\1b07d215a096d515704e99d8af3baac2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\1b07d215a096d515704e99d8af3baac2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c560b188e2bc72e216b2c889112782c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c560b188e2bc72e216b2c889112782c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2d63989ae9cdb818de0bf9c7b8e334ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2d63989ae9cdb818de0bf9c7b8e334ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cc49385c5c001690c011199a76ecc38c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cc49385c5c001690c011199a76ecc38c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b3e4f562a3a0f891918dc960735cbc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b3e4f562a3a0f891918dc960735cbc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ca18680e01f598c4ad483b9372fdd225\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ca18680e01f598c4ad483b9372fdd225\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ea1ff2ec50ab037a7118316375889512\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ea1ff2ec50ab037a7118316375889512\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b83a9bd9daba0ea31a7e2ebb414839cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b83a9bd9daba0ea31a7e2ebb414839cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\327658e7614007ded9c3e10e0c59ea7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\327658e7614007ded9c3e10e0c59ea7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e62c0c5c429bfbe131993bda49a355e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e62c0c5c429bfbe131993bda49a355e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ac4cd005ddd9125dadeaea53cac34665\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ac4cd005ddd9125dadeaea53cac34665\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8f3530a8c9e63d593543304dc4621288\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8f3530a8c9e63d593543304dc4621288\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e13546f34cc370547afd9374be5c7d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e13546f34cc370547afd9374be5c7d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4ee3375f027687fc62b17fdae9f827d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mashuk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4ee3375f027687fc62b17fdae9f827d4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mashuk\Downloads\WsusingretrofitDemo\app\src\main\AndroidManifest.xml

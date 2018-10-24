@@ -1,0 +1,4 @@
+#Wed Aug 22 16:45:43 IST 2018
+base.0=D\:\\AllSVNProject\\WsusingretrofitDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
